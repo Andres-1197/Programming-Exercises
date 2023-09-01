@@ -8,4 +8,5 @@ var isPalindrome = function(x) {
     return x === inverseNumber ? true : false;  
 };
 
+// test
 let result = isPalindrome(121);
